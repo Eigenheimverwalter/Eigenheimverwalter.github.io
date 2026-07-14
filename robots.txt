@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://eigenheimverwalter.de/sitemap.xml
+Sitemap: https://www.eigenheimverwalter.de/sitemap.xml
